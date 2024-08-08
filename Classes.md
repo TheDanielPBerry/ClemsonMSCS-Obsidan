@@ -1,2 +1,2 @@
-- **CPSC 8400 Design and Analysis of Algorithms**
-- **CPSC 8740 AI-Receptive Software Development**
+- **[[syllabus_cpsc8400_fall2024.pdf|CPSC 8400 Design and Analysis of Algorithms]]**
+- **[[CPSC 8740 Syllabus.pdf|CPSC 8740 AI-Receptive Software Development]]**`
