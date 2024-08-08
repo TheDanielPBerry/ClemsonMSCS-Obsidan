@@ -4,25 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "170713667a5da2ce",
+        "id": "43a2b193cfcd64a8",
         "type": "tabs",
         "children": [
           {
-            "id": "47dce233fb1218dc",
+            "id": "8ca25258212de1e0",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "Todo.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "CPSC 8400 Design and Analysis of Algorithms/syllabus_cpsc8400_fall2024.pdf"
               }
             }
           }
@@ -55,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "CPSC 8400 Design and Analysis of Algorithms/syllabus_cpsc8400_fall2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "CPSC 8400 Design and Analysis of Algorithms/syllabus_cpsc8400_fall2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "CPSC 8400 Design and Analysis of Algorithms/syllabus_cpsc8400_fall2024.pdf"
               }
             }
           }
@@ -145,28 +136,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "47dce233fb1218dc",
+  "active": "5678f0295bf8314c",
   "lastOpenFiles": [
+    "CPSC 8400 Design and Analysis of Algorithms/assignments/main.out",
+    "CPSC 8400 Design and Analysis of Algorithms/assignments/main.c",
+    "CPSC 8400 Design and Analysis of Algorithms/assignments",
+    "CPSC 8740 AI-Receptive Software Development/CPSC 8740 Syllabus.pdf",
+    "Untitled.canvas",
+    "CPSC 8400 Design and Analysis of Algorithms/syllabus_cpsc8400_fall2024.pdf",
+    "CPSC 8400 Design and Analysis of Algorithms/main.c~",
+    "CPSC 8400 Design and Analysis of Algorithms/main.out",
+    "CPSC 8400 Design and Analysis of Algorithms/main.c",
     "Classes.md",
     "Todo.md",
-    "CPSC 8400 Design and Analysis of Algorithms/syllabus_cpsc8400_fall2024.pdf",
     "TODO.canvas",
     "Untitled 1.canvas",
-    "CPSC 8740 AI-Receptive Software Development/CPSC 8740 Syllabus.pdf",
     "CPSC 8740 AI-Receptive Software Development/CPSC 8740 Syllabus.pdf.crdownload",
     "CPSC 8400 Design and Analysis of Algorithms/syllabus_cpsc8400_fall2024.pdf.crdownload",
-    "CPSC 8740 AI-Receptive Software Development",
-    "CPSC 8400 Design and Analysis of Algorithms",
-    "CPSC 8400 Design and Analysis of Algorithms",
     "CPSC 8740 AI-Receptive Software Development"
   ]
 }
