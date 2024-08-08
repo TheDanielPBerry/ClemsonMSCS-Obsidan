@@ -1,0 +1,2 @@
+- **CPSC 8400 Design and Analysis of Algorithms**
+- **CPSC 8740 AI-Receptive Software Development**
